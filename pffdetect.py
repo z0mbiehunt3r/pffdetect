@@ -74,7 +74,6 @@ def __banner():
         |----------------------------------------------------------|
         |                  Fast-Flux domain detector               |
         |               Alejandro Nolla (z0mbiehunt3r)             |
-        |                                      Powered by Buguroo! |
         |----------------------------------------------------------|\n'''
     print banner
 
